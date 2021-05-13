@@ -18,3 +18,7 @@ setInterval(() => {
 setTimeout(() => {
     followers.innerText = "Followers on Instagram!";
 },6000);
+
+
+// SetTime out is like -- as in a game time is given that after this time game will be played
+// similarly set interval is like -- as in a game time is given that only for this duration of  time game have to  play.
