@@ -2,6 +2,7 @@
 
 // setInterval(function , milliseconds); -->> it means for such given time function will run
 
+
 console.log("hEllo");
 var counter = document.querySelector(".counter");
 var followers = document.querySelector(".followers");
