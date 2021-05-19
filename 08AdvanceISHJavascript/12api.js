@@ -1,3 +1,4 @@
+//this code can't run directly from node(node Limitation) --> run this in browser
 //direct function fetch() which takes API
 fetch("https://api.chucknorris.io/jokes/random")
 .then((response) => {
