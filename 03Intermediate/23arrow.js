@@ -43,5 +43,5 @@ const findThings = newTodos.filter((todo) => todo.isDone === true);
 console.log(findThings);
 
 const notDoneThings = newTodos.filter((todo) => todo.isDone === false);
-notDoneThings.forEach(Tit => console.log(Tit.title));
+notDoneThings.forEach(Title => console.log(Title.title));
 // console.log(notDoneThings);
